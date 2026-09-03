@@ -1,1 +1,2 @@
 Dong chu moi them vao
+Noi dung moi cho phan C
